@@ -1,0 +1,6 @@
+{
+  "name": "Ser y Estar: Fútbol Quiz",
+  "description": "Интерактивная игра-пенальти для изучения испанских глаголов Ser и Estar на уровне А1 с правилами на русском языке.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
